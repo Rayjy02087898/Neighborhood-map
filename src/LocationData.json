@@ -1,0 +1,45 @@
+[
+  {
+      "name": "yu she",
+      "type": "Hotel and Café",
+      "latitude": 39.936097,
+      "longitude": 116.449585
+  },
+  {
+      "name": "Ming Bar",
+      "type": "Bar",
+      "latitude": 39.937494,
+      "longitude": 116.453506
+  },
+  {
+      "name": "Starbucks",
+      "type": "cafe",
+      "latitude": 39.931487,
+    
+      "longitude": 116.447257
+  },
+  {
+      "name": "Sanlitun FOHO ",
+      "type": "Apartment",
+      "latitude": 39.927927,
+      "longitude": 116.445960
+  },
+  {
+      "name": "Blue Island Mansion",
+      "type": "Hotel",
+      "latitude": 39.921620,
+      "longitude": 116.441247
+  },
+  {
+      "name": "Cozy Bo2k",
+      "type": "Book",
+      "latitude": 39.924886,
+      "longitude": 116.444014
+  },
+  {
+      "name": "Tianyu Market",
+      "type": "shop",
+      "latitude": 39.926581,
+      "longitude": 116.463601
+  }
+]
